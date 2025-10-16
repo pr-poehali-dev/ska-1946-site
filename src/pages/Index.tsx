@@ -147,9 +147,7 @@ const Index = () => {
                 <CardContent className="p-6">
                   <div className="flex items-start justify-between mb-4">
                     <div>
-                      <Badge className="bg-primary text-white mb-2 text-lg font-bold px-3 py-1">
-                        #{player.number}
-                      </Badge>
+                      <Badge className="bg-primary text-white mb-2 text-lg font-bold px-3 py-1">#7</Badge>
                       <h3 className="font-bold text-xl text-foreground">{player.name}</h3>
                       <p className="text-sm text-muted-foreground font-medium">{player.position}</p>
                     </div>
