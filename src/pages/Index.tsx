@@ -14,7 +14,7 @@ const Index = () => {
   };
 
   const players = [
-    { id: 1, name: 'F', number: 19, position: 'Нападающий', goals: 23, assists: 15, games: 45 },
+    { id: 1, name: 'F', number: 19, position: 'Вратарь', goals: 23, assists: 15, games: 45 },
     { id: 2, name: 'max', number: 7, position: 'Защитник', goals: 8, assists: 22, games: 45 },
     { id: 3, name: 'extazy', number: 91, position: 'Нападающий', goals: 19, assists: 18, games: 43 },
     { id: 4, name: 'KEWS1K', number: 44, position: 'Защитник', goals: 5, assists: 16, games: 45 },
