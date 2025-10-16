@@ -17,7 +17,7 @@ const Index = () => {
     { id: 1, name: 'F', number: 19, position: 'Нападающий', goals: 23, assists: 15, games: 45 },
     { id: 2, name: 'max', number: 7, position: 'Защитник', goals: 8, assists: 22, games: 45 },
     { id: 3, name: 'extazy', number: 91, position: 'Нападающий', goals: 19, assists: 18, games: 43 },
-    { id: 4, name: 'Михаил Смирнов', number: 44, position: 'Защитник', goals: 5, assists: 16, games: 45 },
+    { id: 4, name: 'KEWS1K', number: 44, position: 'Защитник', goals: 5, assists: 16, games: 45 },
     { id: 5, name: 'Андрей Волков', number: 10, position: 'Нападающий', goals: 27, assists: 20, games: 45 },
     { id: 6, name: 'Павел Соколов', number: 3, position: 'Защитник', goals: 6, assists: 14, games: 44 },
   ];
